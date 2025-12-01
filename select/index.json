@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Clues",
+  "base_artist": "Ashley Alisha",
+  "createdAt": "2025-12-01T04:37:23.813544Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Looking for Clues",
+      "artist": "Robert Palmer",
+      "has_synced": true,
+      "path": "select/01_Looking_for_Clues_Robert_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Looking For Clues",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/02_Looking_For_Clues_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Clues",
+      "artist": "Godley & Creme",
+      "has_synced": true,
+      "path": "select/03_Clues_Godley_&_Creme.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Too Many Clues In This Room",
+      "artist": "Gordon Lightfoot",
+      "has_synced": false,
+      "path": "select/04_Too_Many_Clues_In_This_Room_Gordon_Lightfoot.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "XXXTENTACION - I WONDER IF BLOODS WATCH BLUES CLUES",
+      "artist": "KHAED feat. Craig Xen",
+      "has_synced": true,
+      "path": "select/05_XXXTENTACION_-_I_WONDER_IF_BLOODS_WATCH_BLUES_CLUES_KHAED_feat._Craig_Xen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Wonder If Bloods Watch Blue's Clues (Patty Cake) (ft. XXXTENTACION)",
+      "artist": "Craig Xen",
+      "has_synced": true,
+      "path": "select/06_I_Wonder_If_Bloods_Watch_Blue's_Clues_(Patty_Cake)_(ft._XXXTENTACION)_Craig_Xen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blues Clues (feat. Lucian & ANH)",
+      "artist": "Shotgun Willy feat. Yung Craka, Lucian & ANH",
+      "has_synced": true,
+      "path": "select/07_Blues_Clues_(feat._Lucian_&_ANH)_Shotgun_Willy_feat._Yung_Craka,_Lucian_&_ANH.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blues Clues (feat. Lucian & ANH)",
+      "artist": "Shotgun Willy, Yung Craka",
+      "has_synced": true,
+      "path": "select/08_Blues_Clues_(feat._Lucian_&_ANH)_Shotgun_Willy,_Yung_Craka.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Context Clues",
+      "artist": "Reptar",
+      "has_synced": true,
+      "path": "select/09_Context_Clues_Reptar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Clues (feat. Big Scarr)",
+      "artist": "Pooh Shiesty feat. Big Scarr",
+      "has_synced": true,
+      "path": "select/10_No_Clues_(feat._Big_Scarr)_Pooh_Shiesty_feat._Big_Scarr.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Clues (feat. Big Scarr)",
+      "artist": "Pooh Shiesty",
+      "has_synced": true,
+      "path": "select/11_No_Clues_(feat._Big_Scarr)_Pooh_Shiesty.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Are Detective - More Clues",
+      "artist": "Thompson Twins",
+      "has_synced": false,
+      "path": "select/12_We_Are_Detective_-_More_Clues_Thompson_Twins.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Are Detective (More Clues)",
+      "artist": "Thompson Twins",
+      "has_synced": false,
+      "path": "select/13_We_Are_Detective_(More_Clues)_Thompson_Twins.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Clues to a Poor Man's Briefcase",
+      "artist": "Static-P",
+      "has_synced": true,
+      "path": "select/14_Clues_to_a_Poor_Man's_Briefcase_Static-P.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Clues",
+      "artist": "Pooh Shiesty feat. Big Scarr",
+      "has_synced": true,
+      "path": "select/15_No_Clues_Pooh_Shiesty_feat._Big_Scarr.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Clues",
+      "artist": "Godley & Creme",
+      "has_synced": false,
+      "path": "select/pl_01_Clues_Godley_&_Creme.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Clues",
+      "artist": "Godley & Creme",
+      "has_synced": false,
+      "path": "select/pl_02_Clues_Godley_&_Creme.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Clues",
+      "artist": "Godley & Creme",
+      "has_synced": false,
+      "path": "select/pl_03_Clues_Godley_&_Creme.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Clues",
+      "artist": "Godley & Creme",
+      "has_synced": false,
+      "path": "select/pl_04_Clues_Godley_&_Creme.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Clueso - Nacht Unterwegs",
+      "artist": "Godley & Creme",
+      "has_synced": false,
+      "path": "select/pl_05_Clueso_-_Nacht_Unterwegs_Godley_&_Creme.txt"
+    }
+  ]
+}
